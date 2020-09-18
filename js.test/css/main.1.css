@@ -1,0 +1,160 @@
+
+/* start of question 1 */
+
+#newItem
+{
+    width:75%;
+    border-radius: 8px;
+}
+#items
+{
+    height: 40px;
+    border-radius: 10px;
+}
+.spanitem
+{
+    width:100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 8px;
+}
+.button1
+{
+ height: 40px;
+}.del
+{
+    padding:none;
+    border-radius: 10px;
+}
+
+
+/* end of question 1 */
+
+
+/* start of question 2 */
+#container2
+{
+transition:all 0.5s;
+}
+.span1
+{
+color:#28A745;
+font-weight: 700;
+font-size:25px;
+}
+.span2
+{
+background-color: #DC3545;
+padding:10px 1.5px;
+}
+.span3
+{
+color:#DC3545;
+font-weight: 700;
+font-size:25px;
+}
+.question2
+{
+background-color: #343A40;
+}
+.HUSTLIN
+{
+line-height: 4;
+font-size: 90px;
+}
+
+/* end of question 2 */
+
+
+
+
+
+/* start of question 3 */
+
+
+#container3
+{
+    background-color: #28A745;
+}
+.divcontainer3
+{
+   width:400px; 
+}
+
+.time
+{
+border:2px solid white;
+border-radius: 50%;
+font-weight: 600;
+width:80px;
+height: 80px;
+}
+.times
+{
+border:2px solid white;
+border-radius: 50%;
+font-weight: 600;
+padding:15px 28px;
+
+}
+
+/* end of question 3 */
+
+
+/* start of question 4 */
+
+#red
+{
+    color:red;
+    font-size:100px;
+    font-optical-sizing: 20;
+    line-height: 4;
+    font-weight: 900;
+    transform:scaleY(3);
+  
+}
+#green
+{
+    color:green;
+    font-size:100px;
+    font-optical-sizing: 20;
+    line-height: 4;
+    font-weight: 900;
+    transform:scaleY(3);
+
+  
+}
+#blue
+{
+    color:blue;
+    font-size:100px;
+    font-optical-sizing: 20;
+    line-height: 4;
+    font-weight: 900;
+    transform:scaleY(3);
+  
+}
+
+/* end of question 4 */
+
+
+/* start of question 5 */
+
+.texts
+{
+border-radius: 8px;
+}
+.alert1
+{
+    display: none;
+}
+.alert2
+{
+    display: none;
+}
+.alert3
+{
+    display: none;
+}
+
+/* end of question 5 */
